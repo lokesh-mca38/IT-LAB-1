@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Task 8 - Book Catalog</title>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="task8.css">
+</head>
+
+<body>
+
+    <h2>Book Catalog</h2>
+
+    <div class="filter-box">
+
+        <select id="genre">
+            <option value="All">All Genres</option>
+        </select>
+
+        <select id="author">
+            <option value="All">All Authors</option>
+        </select>
+
+        <input type="number" id="min" placeholder="Min Price">
+        <input type="number" id="max" placeholder="Max Price">
+
+        <button id="apply">Filter</button>
+
+    </div>
+
+    <table id="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Genre</th>
+                <th>Price</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody></tbody>
+    </table>
+
+    <script src="task8.js"></script>
+
+</body>
+
+</html>

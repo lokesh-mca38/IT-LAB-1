@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalog>
+
+    <book>
+        <title>Atomic Habits</title>
+        <author>James Clear</author>
+        <genre>Self-Help</genre>
+        <price>450</price>
+        <publication_date>2018-10-16</publication_date>
+    </book>
+
+    <book>
+        <title>The Alchemist</title>
+        <author>Paulo Coelho</author>
+        <genre>Fiction</genre>
+        <price>300</price>
+        <publication_date>1988-04-15</publication_date>
+    </book>
+
+    <book>
+        <title>Clean Code</title>
+        <author>Robert C. Martin</author>
+        <genre>Programming</genre>
+        <price>700</price>
+        <publication_date>2008-08-01</publication_date>
+    </book>
+
+    <book>
+        <title>Rich Dad Poor Dad</title>
+        <author>Robert Kiyosaki</author>
+        <genre>Finance</genre>
+        <price>350</price>
+        <publication_date>1997-01-01</publication_date>
+    </book>
+
+    <book>
+        <title>Deep Work</title>
+        <author>Cal Newport</author>
+        <genre>Self-Help</genre>
+        <price>500</price>
+        <publication_date>2016-01-05</publication_date>
+    </book>
+
+</catalog>
