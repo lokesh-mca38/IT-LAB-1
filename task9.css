@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    padding: 40px;
+}
+
+form {
+    background: #fff;
+    padding: 20px;
+    width: 400px;
+    border-radius: 6px;
+}
+
+label {
+    margin-top: 12px;
+    display: block;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 6px;
+    margin-top: 5px;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
+
+.hide {
+    display: none;
+}
+
+button {
+    margin-top: 15px;
+    padding: 8px;
+    width: 100%;
+}
